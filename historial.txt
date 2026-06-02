@@ -1,8 +1,8 @@
-[22:34:03] *** alberto se unió al chat ***
-[22:34:30] *** Anónimo se unió al chat ***
-[22:34:30] *** Anónimo salió del chat ***
-[22:35:05] *** julio se unió al chat ***
-[22:35:38] julio: hola
-[22:36:10] julio: como estas?
-[22:37:07] *** julio salió del chat ***
-[22:37:25] *** alberto salió del chat ***
+[12:02:56] *** alberto se unió al chat ***
+[12:03:17] *** jose se unió al chat ***
+[12:03:50] *** alberto salió del chat ***
+[12:03:50] *** jose salió del chat ***
+[12:06:54] *** alberto se unió al chat ***
+[12:11:05] *** alberto salió del chat ***
+[12:16:10] *** alberto se unió al chat ***
+[12:16:20] *** alberto salió del chat ***

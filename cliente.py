@@ -10,6 +10,7 @@ import socket
 import threading
 import tkinter as tk
 from tkinter import scrolledtext, simpledialog, messagebox
+import random
 
 HOST   = '127.0.0.1'
 PORT   = 5000
@@ -137,5 +138,11 @@ class ClienteChat:
 # ── Punto de entrada ─────────────────────────────────────────────────────────
 if __name__ == '__main__':
     root = tk.Tk()
+
+    x = random.randint(50,300)
+    y = random.randint(50, 300)
+
+    root.geometry(f"600x500+{x}+{y}")
+
     app = ClienteChat(root)
     root.mainloop()
